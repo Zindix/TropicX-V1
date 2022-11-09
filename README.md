@@ -8,3 +8,8 @@ Logiciel fais en [C#](https://learn.microsoft.com/fr-fr/dotnet/csharp/) pour plu
 
 Salutation est bienvenue sur la page de TropicX V1 ce logiciel a etais crée pour le fun est sans prise de tête
 Vous retrouverais beaucoup d'information concernant le logiciel
+
+## Installation
+
+```bash
+git clone https://github.com/Zindix/TropicX-V1.git
