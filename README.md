@@ -1,1 +1,1 @@
-<h1 align="center">🌴 Tropic</h1>
+https://img.shields.io/aur/last-modified/TropicX-V1
