@@ -1,22 +1,25 @@
 # 🌴 TropicX V1
-
+   
 ![GitHub](https://img.shields.io/github/license/Zindix/TropicX-V1) ![GitHub top language](https://img.shields.io/github/languages/top/Zindix/TropicX-V1) ![GitHub contributors](https://img.shields.io/github/contributors/Zindix/TropicX-V1)
-
+    
 Logiciel fais en [C#](https://learn.microsoft.com/fr-fr/dotnet/csharp/) pour plus de questions contact moi
-
+  
+   
 ## 🏰 Histoire
-
-
+ 
+   
 Salutation est bienvenue sur la page de TropicX V1 ce logiciel a etais crée pour le fun est sans prise de tête
 Vous retrouverais beaucoup d'information concernant le logiciel
-
+  
+  
 ## 📥 Installation 
 
 
 ```bash
 git clone https://github.com/Zindix/TropicX-V1.git
 ```
-
+ 
+  
 ## 🏆 Utilisation
 
 ```
@@ -35,17 +38,27 @@ Changer la Musique
 
 - ⚠️ Attentions le fichier dois etre lus en .wav avec le nom **song** ⚠️
 
-
+  
+## 📮 Prochainement
+   
+- [ ❌ ] Bouton Pause
+- [ ❌ ] Bouton Skip
+- [ ❌ ] Plusieur musique
+- [ ❌ ] Playlist
+- [ ❌ ] Disable discord-rpc
+- [ ✔️ ] Song Custom
+   
+  
 ## 👥 Autheur
-
+    
 [zindix](https://github.com/Zindix)
-
-
+  
+   
 ## 💭 Contact
-
+    
 Discord : Zin#7775
-
-
+  
+  
 ## 🔩 License
-
+  
 [CCO-1.0](https://creativecommons.org/publicdomain/zero/1.0/)
