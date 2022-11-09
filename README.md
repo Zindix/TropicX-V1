@@ -1,3 +1,3 @@
 # 🌴 TropicX V1
 
-Logiciel fais en [C#]
+Logiciel fais en C#
