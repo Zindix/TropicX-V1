@@ -6,7 +6,7 @@ Logiciel fais en [C#](https://learn.microsoft.com/fr-fr/dotnet/csharp/) pour plu
   
    
 ## 🏰 Histoire
- 
+Voici son histoire
    
 Salutation est bienvenue sur la page de TropicX V1 ce logiciel a etais crée pour le fun est sans prise de tête
 Vous retrouverais beaucoup d'information concernant le logiciel
@@ -14,6 +14,7 @@ Vous retrouverais beaucoup d'information concernant le logiciel
   
 ## 📥 Installation 
 
+Pour installer le logiciel je vous conseil d'utilisez [Git](https://git-scm.com/)
 
 ```bash
 git clone https://github.com/Zindix/TropicX-V1.git
@@ -21,6 +22,8 @@ git clone https://github.com/Zindix/TropicX-V1.git
  
   
 ## 🏆 Utilisation
+
+Pour utiliser le logiciel voici ses etapes
 
 ```
 1. Lancer le .exe
@@ -40,6 +43,8 @@ Changer la Musique
 
   
 ## 📮 Prochainement
+   
+   Bientôt :
    
 - [ ❌ ] Bouton Pause
 - [ ❌ ] Bouton Skip
