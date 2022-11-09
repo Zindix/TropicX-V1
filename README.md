@@ -61,7 +61,7 @@ Changer la Musique
    
 ## 💭 Contact
     
-Discord : Zin#7775
+Discord : [Zin#7775](https://discord.com/)
   
   
 ## 🔩 License
