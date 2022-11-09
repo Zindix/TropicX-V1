@@ -1,6 +1,6 @@
 # 🌴 TropicX V1
 
-![GitHub](https://img.shields.io/github/license/Zindix/TropicX-V1)
+![GitHub](https://img.shields.io/github/license/Zindix/TropicX-V1) ![GitHub top language](https://img.shields.io/github/languages/top/Zindix/TropicX-V1)
 
 Logiciel fais en [C#](https://learn.microsoft.com/fr-fr/dotnet/csharp/) pour plus de questions contact moi
 
